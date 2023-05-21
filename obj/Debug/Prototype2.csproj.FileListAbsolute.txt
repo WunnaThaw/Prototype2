@@ -1,0 +1,5 @@
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Prototype2\bin\Debug\Prototype2.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Prototype2\bin\Debug\Prototype2.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Prototype2\obj\Debug\Prototype2.csprojResolveAssemblyReference.cache
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Prototype2\obj\Debug\Prototype2.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Prototype2\obj\Debug\Prototype2.pdb

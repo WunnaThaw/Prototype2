@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ConsoleApplication4.exe
+bin\Debug\ConsoleApplication4.pdb
+obj\Debug\ConsoleApplication4.exe
+obj\Debug\ConsoleApplication4.pdb
+bin\Release\ConsoleApplication4.exe
+bin\Release\ConsoleApplication4.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ConsoleApplication4.exe
+obj\Release\ConsoleApplication4.pdb
